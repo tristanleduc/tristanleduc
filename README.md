@@ -1,6 +1,6 @@
 # This is Tristan
 
-![Banne]()
+![Header](https://raw.githubusercontent.com/tristanleduc/tristanleduc/master/Abstract_Banner.png)
 
 I am a Machine Learning Engineer with experience in AI research, specifically in applying computer vision in healthcare. I'm incredibly fascinated by complex decision-making with autonomous AI agents and firmly believe in a revolution in our relationship with personal computers. Feel free to reach out to me at [tleduc@iit.edu](mailto:tleduc@iit.edu) or connect with me on LinkedIn by clicking the icon below.
 
