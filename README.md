@@ -1,6 +1,8 @@
 # This is Tristan
 
-![Header](https://raw.githubusercontent.com/tristanleduc/tristanleduc/master/Abstract_Banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tristanleduc/tristanleduc/master/Abstract_Banner.png" width="100%" height="300px")
+</p>
 
 I am a Machine Learning Engineer with experience in AI research, specifically in applying computer vision in healthcare. I'm incredibly fascinated by complex decision-making with autonomous AI agents and firmly believe in a revolution in our relationship with personal computers. Feel free to reach out to me at [tleduc@iit.edu](mailto:tleduc@iit.edu) or connect with me on LinkedIn by clicking the icon below.
 
@@ -30,3 +32,8 @@ I am a Machine Learning Engineer with experience in AI research, specifically in
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+
+
+![Tristan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tristanleduc&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tristanleduc&layout=compact&theme=radical)
+
